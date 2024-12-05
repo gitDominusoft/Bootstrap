@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    line-height: 1.5;
+    font-size: 1em;
+}
+
+/* Navbar */
+.navbar {
+    /* background-color: rgb(200, 119, 136); */
+    background-color: transparent;
+
+}
+
+.nav-link {
+    color: #fff;
+}
+
+header>img {
+    height: 100dvh;
+}
