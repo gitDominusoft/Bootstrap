@@ -22,3 +22,7 @@ body {
 header>img {
     height: 100dvh;
 }
+
+.bg-about {
+    background-color: #2e62b5;
+}
